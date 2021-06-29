@@ -1,6 +1,6 @@
 # download-ram-linux
 
-`python3 -m pip install console-menu`
+`python3 -m pip install console-menu requests`
 <br>
 `git clone https://github.com/Heath123/download-ram-linux`
 <br>
